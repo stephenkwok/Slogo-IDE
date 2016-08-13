@@ -15,8 +15,7 @@ import java.util.Observer;
 import java.util.ResourceBundle;
 
 /**
- * This class implements the CommHistory interface and allows any previously executed commands
- * to be displayed on the GUI
+ * This class displays recently entered commands and allows users to click on a command to easily reexecute it.
  *
  * @author Stephen
  */
